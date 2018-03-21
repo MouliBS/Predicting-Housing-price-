@@ -1,2 +1,2 @@
 # Predicting-Housing-price-
-Aregression example
+A Regression example
